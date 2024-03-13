@@ -1,5 +1,5 @@
 function f1(){
-    alert("太好了，晚上一起吃饭看电影！！！")
+    alert("太好来，晚上一起吃饭看电影！！！")
 }
 var flag=1;
 function f(){
